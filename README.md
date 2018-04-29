@@ -1,4 +1,4 @@
-# Linear-Regersession-I
+# Linear-Regression-II
 Classical Assumptions
 
 For TIPS dataset
